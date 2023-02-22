@@ -1,0 +1,19 @@
+.one {
+    background-color: darksalmon;
+    font-family: Verdana, Dejavu Sans, sans-serif;
+}
+
+.two {
+    font-size: 24px;
+}
+
+#sec {
+    color: blue;
+    font-size: 36px;
+}
+
+#thi {
+    background-color: chartreuse;
+    font-size: 24px;
+    font-weight: bold;
+}
